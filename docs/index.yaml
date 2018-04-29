@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-04-28T22:10:02.681061877-05:00
+    description: A Helm chart for Kubernetes
+    digest: ffc744f68ec85e335869db718e0c8005f009aadebbaa1993abd94a50e84f2283
+    name: nginx
+    urls:
+    - https://tcblabs.github.io/helm-repo-poc/nginx-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-04-28T22:10:02.679705625-05:00
